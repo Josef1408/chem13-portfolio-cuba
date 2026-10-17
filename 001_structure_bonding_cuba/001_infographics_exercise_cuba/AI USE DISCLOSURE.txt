@@ -1,0 +1,18 @@
+AI USE DISCLOSURE
+
+Course: CHEM 13 - Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 1 (GitHub Portfolio Setup & Infographics)
+
+AI Tool Used:
+Gemini AI
+
+Purpose and Scope of Use:
+Gemini AI was utilized as an interactive learning support tool for the following specific tasks:
+
+1. Technical Information & Content Retrieval: Provided chemical properties, chemical engineering relevance, GHS safety risks, and functional applications for Ethanol, Acetone, and Acetic Acid.
+2. Design Layout Assistance: Suggested structural layout ideas and icon placement matching the course template. (Note: Color choices, visual styling, and final graphic elements were completed independently).
+3. Fact-Checking & Proofreading: Reviewed chemical formulas, molar masses, and skeletal structure diagrams (verifying carbon counts) to catch minor typos and formatting errors.
+4. Portfolio & Citation Setup: Assisted with formatting the APA 7th edition references and organizing the required GitHub repository folder structure.
+
+Independent Verification:
+All factual data, chemical properties, safety risks, and molecular structures provided or checked by the AI were independently verified against primary scientific sources (PubChem and Wikipedia).
